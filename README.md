@@ -1,6 +1,7 @@
 ### Providing free website to everyone @ Cobiro 🚀🚀🚀
 
-![Much code](./giphy.gif)
+![Much code](https://github.com/sp90/sp90/raw/master/giphy.gif)
+
 
 <!--
 **sp90/sp90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
