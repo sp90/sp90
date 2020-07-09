@@ -1,5 +1,8 @@
 ### Providing free website to everyone @ Cobiro 🚀🚀🚀
 
+Inline-style: 
+![alt text](./giphy.gif "Logo Title Text 1")
+
 <!--
 **sp90/sp90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
