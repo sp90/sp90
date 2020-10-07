@@ -1,4 +1,4 @@
-### Providing free website to everyone @ Cobiro 🚀🚀🚀
+### Empowering online businesses @ Cobiro 🚀🚀🚀
 
 ![Much code](https://github.com/sp90/sp90/raw/master/giphy.gif)
 
