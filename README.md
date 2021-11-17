@@ -1,4 +1,4 @@
-### Empowering online businesses @ Cobiro 🚀🚀🚀
+### Software dev & investor 🚀🚀🚀
 
 ![Much code](https://github.com/sp90/sp90/raw/master/giphy.gif)
 
