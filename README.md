@@ -1,4 +1,4 @@
-### Software dev & investor 🚀🚀🚀
+### Software dev 🚀🚀🚀
 
 ![Much code](https://github.com/sp90/sp90/raw/master/giphy.gif)
 
